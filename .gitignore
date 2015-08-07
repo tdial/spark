@@ -1,0 +1,8 @@
+# Build targets
+spark
+*.o
+
+# Editor temp files
+*~
+
+
